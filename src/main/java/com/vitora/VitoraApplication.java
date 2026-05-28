@@ -1,13 +1,11 @@
-package com.example.vietora_be;
+package com.vitora;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class VietoraBeApplication {
-
+public class VitoraApplication {
     public static void main(String[] args) {
-        SpringApplication.run(VietoraBeApplication.class, args);
+        SpringApplication.run(VitoraApplication.class, args);
     }
-
 }
