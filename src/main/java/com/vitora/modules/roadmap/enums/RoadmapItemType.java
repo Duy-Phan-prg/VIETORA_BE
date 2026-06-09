@@ -1,5 +1,4 @@
-package com.vitora.modules.roadmap.enums;
+﻿package com.vitora.modules.roadmap.enums;
 
 public enum RoadmapItemType {
-    EXERCISE, VIDEO, ARTICLE
 }

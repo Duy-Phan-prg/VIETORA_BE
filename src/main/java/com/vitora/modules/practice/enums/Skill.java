@@ -1,5 +1,4 @@
-package com.vitora.modules.practice.enums;
+﻿package com.vitora.modules.practice.enums;
 
 public enum Skill {
-    LISTENING, READING, WRITING, SPEAKING
 }
